@@ -1,0 +1,1 @@
+select * from etudiant where age > 17 and age < 26;
